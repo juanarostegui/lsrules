@@ -1,0 +1,1308 @@
+{
+    "bundleVersion" : 6299,
+    "codeRequirements" : {
+      "/Applications/1Password.app/Contents/MacOS/1Password" : {
+        "authorIdentifier" : "2BUA8C4S2C",
+        "codeIdentifier" : "com.1password.1password",
+        "type" : "trustedAnchor"
+      },
+      "/Applications/Element.app/Contents/MacOS/Element" : {
+        "authorIdentifier" : "7J4U792NQT",
+        "codeIdentifier" : "im.riot.app",
+        "type" : "trustedAnchor"
+      },
+      "/Applications/Google Chrome Canary.app/Contents/MacOS/Google Chrome Canary" : {
+        "authorIdentifier" : "EQHXZ8M8AV",
+        "codeIdentifier" : "com.google.Chrome.canary",
+        "type" : "trustedAnchor"
+      },
+      "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" : {
+        "authorIdentifier" : "EQHXZ8M8AV",
+        "codeIdentifier" : "com.google.Chrome",
+        "type" : "trustedAnchor"
+      },
+      "/Applications/Little Snitch.app/Contents/Components/Little Snitch Software Update.app/Contents/MacOS/Little Snitch Software Update" : {
+        "authorIdentifier" : "MLZF7K7B5R",
+        "codeIdentifier" : "at.obdev.littlesnitch.softwareupdate",
+        "type" : "trustedAnchor"
+      },
+      "/Applications/Parallels Desktop.app/Contents/MacOS/prl_client_app" : {
+        "authorIdentifier" : "4C6364ACXT",
+        "codeIdentifier" : "com.parallels.desktop.console",
+        "type" : "trustedAnchor"
+      },
+      "/Applications/Tailscale.app/Contents/MacOS/Tailscale" : {
+        "authorIdentifier" : "W5364U7YZB",
+        "codeIdentifier" : "io.tailscale.ipn.macos",
+        "type" : "trustedAnchor"
+      },
+      "/Applications/Tailscale.app/Contents/PlugIns/IPNExtension.appex/Contents/MacOS/IPNExtension" : {
+        "authorIdentifier" : "W5364U7YZB",
+        "codeIdentifier" : "io.tailscale.ipn.macos.network-extension",
+        "type" : "trustedAnchor"
+      },
+      "/Applications/UTM.app/Contents/MacOS/UTM" : {
+        "authorIdentifier" : "WDNLXAD4W8",
+        "codeIdentifier" : "com.utmapp.UTM",
+        "type" : "trustedAnchor"
+      },
+      "/Library/Application Support/JAMF/Jamf.app/Contents/MacOS/JamfDaemon.app/Contents/MacOS/JamfDaemon" : {
+        "authorIdentifier" : "483DWKW443",
+        "codeIdentifier" : "com.jamf.management.daemon",
+        "type" : "trustedAnchor"
+      },
+      "/Library/Sentinel/sentinel-agent.bundle/Contents/MacOS/sentineld.app/Contents/MacOS/sentineld" : {
+        "authorIdentifier" : "4AYE5J54KN",
+        "codeIdentifier" : "com.sentinelone.sentineld",
+        "type" : "trustedAnchor"
+      },
+      "/System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget" : {
+        "codeIdentifier" : "com.apple.stocks.widget",
+        "type" : "anchorApple"
+      },
+      "/System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget" : {
+        "codeIdentifier" : "com.apple.weather.widget",
+        "type" : "anchorApple"
+      },
+      "/System/Library/CoreServices/AppleIDAuthAgent" : {
+        "type" : "anchorApple"
+      },
+      "/usr/bin/sntp" : {
+        "codeIdentifier" : "com.apple.sntp",
+        "type" : "anchorApple"
+      },
+      "/usr/libexec/airportd" : {
+        "codeIdentifier" : "com.apple.airport.airportd",
+        "type" : "anchorApple"
+      },
+      "/usr/libexec/bootpd" : {
+        "codeIdentifier" : "com.apple.bootpd",
+        "type" : "anchorApple"
+      },
+      "/usr/libexec/configd" : {
+        "codeIdentifier" : "com.apple.configd",
+        "type" : "anchorApple"
+      },
+      "/usr/libexec/mdmclient" : {
+        "codeIdentifier" : "com.apple.mdmclient",
+        "type" : "anchorApple"
+      },
+      "/usr/libexec/networkserviceproxy" : {
+        "codeIdentifier" : "com.apple.networkserviceproxy",
+        "type" : "anchorApple"
+      },
+      "/usr/libexec/syspolicyd" : {
+        "codeIdentifier" : "com.apple.syspolicyd",
+        "type" : "anchorApple"
+      },
+      "/usr/libexec/timed" : {
+        "codeIdentifier" : "com.apple.timed",
+        "type" : "anchorApple"
+      },
+      "/usr/libexec/trustd" : {
+        "codeIdentifier" : "com.apple.trustd",
+        "type" : "anchorApple"
+      },
+      "/usr/libexec/wifid" : {
+        "codeIdentifier" : "com.apple.wifid",
+        "type" : "anchorApple"
+      },
+      "/usr/sbin/mDNSResponder" : {
+        "codeIdentifier" : "com.apple.mDNSResponder",
+        "type" : "anchorApple"
+      },
+      "/usr/sbin/mDNSResponderHelper" : {
+        "codeIdentifier" : "com.apple.mDNSResponderHelper",
+        "type" : "anchorApple"
+      },
+      "/usr/sbin/netbiosd" : {
+        "codeIdentifier" : "com.apple.netbiosd",
+        "type" : "anchorApple"
+      },
+      "/usr/sbin/ntpd" : {
+        "codeIdentifier" : "com.apple.ntpd",
+        "type" : "anchorApple"
+      },
+      "/usr/sbin/ocspd" : {
+        "codeIdentifier" : "com.apple.ocspd",
+        "type" : "anchorApple"
+      }
+    },
+    "developerTeamNames" : {
+      "2BUA8C4S2C" : "AgileBits Inc.",
+      "4AYE5J54KN" : "Sentinel Labs Inc.",
+      "7J4U792NQT" : "Vector Creations Limited",
+      "483DWKW443" : "JAMF Software",
+      "EQHXZ8M8AV" : "Google LLC",
+      "MLZF7K7B5R" : "Objective Development Software GmbH",
+      "W5364U7YZB" : "Mac App Store"
+    },
+    "factoryRuleSetVersion" : 420,
+    "globalDefaults" : {
+      "activeSilentMode" : 0,
+      "allowCommandLineAccess" : 1,
+      "firstLaunchDate" : "2024-01-08T14:26:21Z",
+      "globalLastShownWelcomeWindowVersion" : 2,
+      "monitorMaxConnectionsInModel" : 50000,
+      "networkFilterEnabled" : 1,
+      "primitive_automaticProfileSwitchingDistinguishOpenVPNServers" : 1
+    },
+    "groups" : {
+      "aaaaac" : {
+        "isActive" : true,
+        "lastUpdateInvalidDomainsCount" : 0,
+        "type" : "builtinMacOSServices",
+        "updateInterval" : 86400
+      },
+      "aaaaad" : {
+        "isActive" : true,
+        "lastUpdateInvalidDomainsCount" : 0,
+        "type" : "builtinICloudServices",
+        "updateInterval" : 86400
+      }
+    },
+    "networkTriggers" : [
+    ],
+    "profiles" : {
+    },
+    "rules" : [
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:21:38Z",
+        "direction" : "incoming",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887698.898915\ndirection: incoming\norigin: alert\npeer: 51.17.118.145\nport: 41641\nprocessPath: /Applications/Tailscale.app/Contents/PlugIns/IPNExtension.appex/Contents/MacOS/IPNExtension\nprotocol: 17\n",
+        "modificationDate" : "2024-02-29T08:21:38Z",
+        "origin" : "alert",
+        "process" : "/Applications/Tailscale.app/Contents/PlugIns/IPNExtension.appex/Contents/MacOS/IPNExtension",
+        "remote" : "any",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "direction" : "incoming",
+        "factoryID" : 301,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "ports" : "68",
+        "process" : "/usr/libexec/configd",
+        "protected" : true,
+        "protocol" : "udp",
+        "remote" : "any"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "direction" : "incoming",
+        "factoryHelpText" : "#en\nICMP data packets are used to propagate information relating to the network itself, e.g. whether a host is unreachable or whether a remote port is not ready to receive connections. This rule allows all system processes to receive ICMP data packets.\n#de\nICMP Datenpakete werden vorrangig für Fehlermeldungen bzw. zur Diagnose des Netzwerks oder der Netzwerkverbindungen verwendet. Zum Beispiel um herauszufinden, ob ein Computer unerreichbar ist, oder ob ein Port empfangsbereit ist. Diese Regel erlaubt allen Systemprozessen, ICMP Datenpakete zu empfangen.",
+        "factoryID" : 413,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "protected" : true,
+        "protocol" : "icmp",
+        "remote" : "any",
+        "requiresTrustedSignatureForAnyProcess" : true
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "direction" : "incoming",
+        "factoryHelpText" : "#en\nICMP data packets are used to propagate information relating to the network itself, e.g. whether a host is unreachable or whether a remote port is not ready to receive connections. This rule allows all user processes to receive ICMP data packets.\n#de\nICMP Datenpakete werden vorrangig für Fehlermeldungen bzw. zur Diagnose des Netzwerks oder der Netzwerkverbindungen verwendet. Zum Beispiel um herauszufinden, ob ein Computer unerreichbar ist, oder ob ein Port empfangsbereit ist. Diese Regel erlaubt allen Benutzerprozessen, ICMP Datenpakete zu empfangen.",
+        "factoryID" : 302,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "protected" : true,
+        "protocol" : "icmp",
+        "remote" : "any",
+        "requiresTrustedSignatureForAnyProcess" : true,
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "direction" : "incoming",
+        "factoryHelpText" : "#en\nThis rule covers the localhost and zero addresses on the loopback interface",
+        "factoryID" : 262,
+        "hidden" : true,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "priority" : "high",
+        "protected" : true,
+        "remote-addresses" : "0.0.0.0, 127.0.0.1, ::0-::1"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "direction" : "incoming",
+        "factoryHelpText" : "#en\nLocal Network is an alias for your home or company network. Technically speaking, it covers all networks your computer is physically connected to (e.g. via Wi-Fi, ethernet cable, dial-up connection, etc). The represented address ranges are updated with every change of your network configuration.\n#de\n„Lokales Netzwerk“ ist eine allgemeine Bezeichnung für das aktuelle Heim- oder Firmennetzwerk, mit dem dein Computer direkt verbunden ist (z.B. über WLAN, Netzwerkkabel, Modem, o.ä.). Die entsprechenden Adressbereiche werden bei jeder Änderung der Netzwerkkonfiguration deines Computers angepasst.",
+        "factoryID" : 253,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "protected" : true,
+        "remote" : "local-net",
+        "requiresTrustedSignatureForAnyProcess" : true
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "direction" : "incoming",
+        "factoryHelpText" : "#en\nLocal Network is an alias for your home or company network. Technically speaking, it covers all networks your computer is physically connected to (e.g. via Wi-Fi, ethernet cable, dial-up connection, etc). The represented address ranges are updated with every change of your network configuration.\n#de\n„Lokales Netzwerk“ ist eine allgemeine Bezeichnung für das aktuelle Heim- oder Firmennetzwerk, mit dem dein Computer direkt verbunden ist (z.B. über WLAN, Netzwerkkabel, Modem, o.ä.). Die entsprechenden Adressbereiche werden bei jeder Änderung der Netzwerkkonfiguration deines Computers angepasst.",
+        "factoryID" : 253,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "protected" : true,
+        "remote" : "local-net",
+        "requiresTrustedSignatureForAnyProcess" : true,
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T15:47:00Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 726421620.950197\ndirection: outgoing\norigin: alert\npeer: my.1password.com\nport: 443\nprocessPath: /Applications/1Password.app/Contents/MacOS/1Password\nprotocol: 6\n",
+        "modificationDate" : "2024-01-08T15:47:00Z",
+        "origin" : "alert",
+        "process" : "/Applications/1Password.app/Contents/MacOS/1Password",
+        "remote-domains" : "1password.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T15:47:05Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 726421625.930355\ndirection: outgoing\norigin: alert\npeer: vip1.g5.cachefly.net\nport: 443\nprocessPath: /Applications/1Password.app/Contents/MacOS/1Password\nprotocol: 6\n",
+        "modificationDate" : "2024-01-08T15:47:05Z",
+        "origin" : "alert",
+        "process" : "/Applications/1Password.app/Contents/MacOS/1Password",
+        "remote-domains" : "cachefly.net",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:16:25Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887385.649765\ndirection: outgoing\norigin: alert\npeer: dfsec.ems.host\nport: 443\nprocessPath: /Applications/Element.app/Contents/MacOS/Element\nprotocol: 6\nviaProcessPath: /Applications/Element.app/Contents/Frameworks/Element Helper.app/Contents/MacOS/Element Helper\n",
+        "modificationDate" : "2024-02-29T08:16:25Z",
+        "origin" : "alert",
+        "ports" : "443",
+        "process" : "/Applications/Element.app/Contents/MacOS/Element",
+        "protocol" : "tcp",
+        "remote-hosts" : "dfsec.ems.host",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:17:37Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887457.082296\ndirection: outgoing\norigin: alert\npeer: k8s-core-coreingr-23262e92df-35e512c9110f05c6.elb.eu-north-1.amazonaws.com\nport: 443\nprocessPath: /Applications/Element.app/Contents/MacOS/Element\nprotocol: 6\nviaProcessPath: /Applications/Element.app/Contents/Frameworks/Element Helper.app/Contents/MacOS/Element Helper\n",
+        "modificationDate" : "2024-02-29T08:17:37Z",
+        "origin" : "alert",
+        "process" : "/Applications/Element.app/Contents/MacOS/Element",
+        "remote-domains" : "amazonaws.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:25:09Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887909.748820\ndirection: outgoing\norigin: alert\npeer: 239.255.255.250\nport: 1900\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 17\n",
+        "modificationDate" : "2024-02-29T08:25:09Z",
+        "origin" : "alert",
+        "ports" : "1900",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "protocol" : "udp",
+        "remote" : "any",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:33:24Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888404.880676\ndirection: outgoing\norigin: alert\npeer: 8.8.4.4\nport: 53\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 17\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:33:24Z",
+        "origin" : "alert",
+        "ports" : "53",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "protocol" : "udp",
+        "remote-addresses" : "8.8.4.4",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:33:21Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888401.213861\ndirection: outgoing\norigin: alert\npeer: 8.8.8.8\nport: 53\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 17\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:33:21Z",
+        "origin" : "alert",
+        "ports" : "53",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "protocol" : "udp",
+        "remote-addresses" : "8.8.8.8",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:25:19Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887919.400349\ndirection: outgoing\norigin: alert\npeer: watchtower.1password.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:25:19Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "1password.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:33:10Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888390.030114\ndirection: outgoing\norigin: alert\npeer: us-west-1.prod.pr.analytics.console.aws.a2z.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:33:10Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "a2z.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:31:37Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888297.247445\ndirection: outgoing\norigin: alert\npeer: www.amazon.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:31:37Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "amazon.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:41:08Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888868.849693\ndirection: outgoing\norigin: alert\npeer: api.amplitude.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:41:08Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "amplitude.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:41:16Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888876.898491\ndirection: outgoing\norigin: alert\npeer: cdn.ampproject.org\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:41:16Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "ampproject.org",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:42:23Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888943.148586\ndirection: outgoing\norigin: alert\npeer: assets.asana.biz\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:42:23Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "asana.biz",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:42:18Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888938.981119\ndirection: outgoing\norigin: alert\npeer: asana.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:42:18Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "asana.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:33:02Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888382.601200\ndirection: outgoing\norigin: alert\npeer: prod-us-west-2.csp-report.marketing.aws.dev\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:33:02Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "aws.dev",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:33:00Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888380.264388\ndirection: outgoing\norigin: alert\npeer: a0.awsstatic.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:33:00Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "awsstatic.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:37:23Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888643.880129\ndirection: outgoing\norigin: alert\npeer: bamboohr.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:37:23Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "bamboohr.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:38:17Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888697.863451\ndirection: outgoing\norigin: alert\npeer: cdnjs.cloudflare.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:38:17Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "cloudflare.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:25:40Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887940.081752\ndirection: outgoing\norigin: alert\npeer: cdn.jsdelivr.net.cdn.cloudflare.net\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:25:40Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "cloudflare.net",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:42:29Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888949.731499\ndirection: outgoing\norigin: alert\npeer: d3ki9tyy5l5ruj.cloudfront.net\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:42:29Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "cloudfront.net",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:29:54Z",
+        "modificationDate" : "2024-02-29T08:29:54Z",
+        "origin" : "frontend",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "dfinternal.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:25:30Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887930.248786\ndirection: outgoing\norigin: alert\npeer: dualstack.n.sni.global.fastly.net\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:25:30Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "fastly.net",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:39:15Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888755.949555\ndirection: outgoing\norigin: alert\npeer: github.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:39:15Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "github.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:25:36Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887936.281479\ndirection: outgoing\norigin: alert\npeer: ublockorigin.github.io\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:25:36Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "github.io",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:39:19Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888759.000194\ndirection: outgoing\norigin: alert\npeer: github.githubassets.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:39:19Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "githubassets.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:41:00Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888860.752732\ndirection: outgoing\norigin: alert\npeer: gmail.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:41:00Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "gmail.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:23:20Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887800.515421\ndirection: outgoing\norigin: alert\npeer: accounts.google.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:23:20Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "google.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:28:52Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888132.997225\ndirection: outgoing\norigin: alert\npeer: update.googleapis.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Library/Application Support/Google/GoogleUpdater/124.0.6315.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater\n",
+        "modificationDate" : "2024-02-29T08:28:52Z",
+        "origin" : "alert",
+        "owner" : "system",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "googleapis.com"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:23:14Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887794.965175\ndirection: outgoing\norigin: alert\npeer: clientservices.googleapis.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:23:14Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "googleapis.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:26:51Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888011.833622\ndirection: outgoing\norigin: alert\npeer: googlehosted.l.googleusercontent.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:26:51Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "googleusercontent.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:40:30Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888830.448513\ndirection: outgoing\norigin: alert\npeer: secure.gravatar.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:40:30Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "gravatar.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:25:22Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887922.965409\ndirection: outgoing\norigin: alert\npeer: www.gstatic.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:25:22Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "gstatic.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:41:06Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888866.481973\ndirection: outgoing\norigin: alert\npeer: api.ipify.org\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:41:06Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "ipify.org",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:25:45Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887945.215805\ndirection: outgoing\norigin: alert\npeer: cdn.jsdelivr.net\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:25:45Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "jsdelivr.net",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:40:12Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888812.383030\ndirection: outgoing\norigin: alert\npeer: sdk.launchdarkly.us\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:40:12Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "launchdarkly.us",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:43:16Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888996.817126\ndirection: outgoing\norigin: alert\npeer: dataflowsecurity.lifeworks.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:43:16Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "lifeworks.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:42:20Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888940.633840\ndirection: outgoing\norigin: alert\npeer: luna1.co\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:42:20Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "luna1.co",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:32:34Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888354.496977\ndirection: outgoing\norigin: alert\npeer: m.media-amazon.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:32:34Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "media-amazon.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:33:05Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888385.013903\ndirection: outgoing\norigin: alert\npeer: amazonwebservicesinc.tt.omtrdc.net\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:33:05Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "omtrdc.net",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:38:46Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888726.764869\ndirection: outgoing\norigin: alert\npeer: ws-us2.pusher.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:38:46Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "pusher.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:43:18Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888998.848725\ndirection: outgoing\norigin: alert\npeer: cdn.ribbonapp.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:43:18Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "ribbonapp.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:38:23Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888703.580452\ndirection: outgoing\norigin: alert\npeer: site.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:38:23Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "site.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:31:42Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888302.048874\ndirection: outgoing\norigin: alert\npeer: images-na.ssl-images-amazon.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:31:42Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "ssl-images-amazon.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:42:51Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888971.881852\ndirection: outgoing\norigin: alert\npeer: abs.twimg.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:42:51Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "twimg.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:42:38Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888958.231757\ndirection: outgoing\norigin: alert\npeer: platform.twitter.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:42:38Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "twitter.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:25:15Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887915.498422\ndirection: outgoing\norigin: alert\npeer: api-gcp.virtru.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:25:15Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "virtru.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:40:32Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888832.948899\ndirection: outgoing\norigin: alert\npeer: csp.withgoogle.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:40:32Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "withgoogle.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:43:20Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730889000.715763\ndirection: outgoing\norigin: alert\npeer: app.wondering.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:43:20Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "wondering.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:43:24Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730889004.648209\ndirection: outgoing\norigin: alert\npeer: images.workangel.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:43:24Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "workangel.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:42:49Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888969.686216\ndirection: outgoing\norigin: alert\npeer: x.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:42:49Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "x.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:32:56Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888376.080355\ndirection: outgoing\norigin: alert\npeer: www.youtube.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:32:56Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "youtube.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:32:45Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888365.714252\ndirection: outgoing\norigin: alert\npeer: i.ytimg.com\nport: 443\nprocessPath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome\nprotocol: 6\nviaProcessPath: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/122.0.6261.94/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper\n",
+        "modificationDate" : "2024-02-29T08:32:45Z",
+        "origin" : "alert",
+        "process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "remote-domains" : "ytimg.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:31:23Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 726417083.880812\ndirection: outgoing\norigin: alert\npeer: sw-update.obdev.at\nport: 443\nprocessPath: /Applications/Little Snitch.app/Contents/Components/Little Snitch Software Update.app/Contents/MacOS/Little Snitch Software Update\nprotocol: 6\n",
+        "modificationDate" : "2024-01-08T14:31:23Z",
+        "origin" : "alert",
+        "process" : "/Applications/Little Snitch.app/Contents/Components/Little Snitch Software Update.app/Contents/MacOS/Little Snitch Software Update",
+        "remote-domains" : "obdev.at",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:18:51Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887531.515925\ndirection: outgoing\norigin: alert\npeer: desktop.parallels.com.cdn.cloudflare.net\nport: 443\nprocessPath: /Applications/Parallels Desktop.app/Contents/MacOS/prl_client_app\nprotocol: 6\nviaProcessPath: /Applications/Parallels Desktop.app/Contents/MacOS/Parallels Service.app/Contents/MacOS/prl_disp_service\n",
+        "modificationDate" : "2024-02-29T08:18:51Z",
+        "origin" : "alert",
+        "owner" : "system",
+        "process" : "/Applications/Parallels Desktop.app/Contents/MacOS/prl_client_app",
+        "remote" : "any"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:18:56Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887536.466125\ndirection: outgoing\norigin: alert\npeer: desktop.parallels.com.cdn.cloudflare.net\nport: 443\nprocessPath: /Applications/Parallels Desktop.app/Contents/MacOS/prl_client_app\nprotocol: 6\n",
+        "modificationDate" : "2024-02-29T08:18:56Z",
+        "origin" : "alert",
+        "process" : "/Applications/Parallels Desktop.app/Contents/MacOS/prl_client_app",
+        "remote" : "any",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:17:25Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887445.049610\ndirection: outgoing\norigin: alert\npeer: lh3.googleusercontent.com\nport: 443\nprocessPath: /Applications/Tailscale.app/Contents/MacOS/Tailscale\nprotocol: 6\n",
+        "modificationDate" : "2024-02-29T08:17:25Z",
+        "origin" : "alert",
+        "process" : "/Applications/Tailscale.app/Contents/MacOS/Tailscale",
+        "remote-domains" : "googleusercontent.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:27:16Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 726416836.011431\ndirection: outgoing\norigin: alert\npeer: log.tailscale.io\nport: 443\nprocessPath: /Applications/Tailscale.app/Contents/PlugIns/IPNExtension.appex/Contents/MacOS/IPNExtension\nprotocol: 6\n",
+        "modificationDate" : "2024-01-08T14:27:16Z",
+        "origin" : "alert",
+        "process" : "/Applications/Tailscale.app/Contents/PlugIns/IPNExtension.appex/Contents/MacOS/IPNExtension",
+        "remote" : "any",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:27:36Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730888056.499039\ndirection: outgoing\norigin: alert\npeer: api.github.com\nport: 443\nprocessPath: /Applications/UTM.app/Contents/MacOS/UTM\nprotocol: 6\n",
+        "modificationDate" : "2024-02-29T08:27:36Z",
+        "origin" : "alert",
+        "process" : "/Applications/UTM.app/Contents/MacOS/UTM",
+        "remote" : "any",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:27:31Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 726416851.347447\ndirection: outgoing\norigin: alert\npeer: dataflow.jamfcloud.com\nport: 443\nprocessPath: /Library/Application Support/JAMF/Jamf.app/Contents/MacOS/JamfDaemon.app/Contents/MacOS/JamfDaemon\nprotocol: 6\nviaProcessPath: /usr/local/jamf/bin/jamf\n",
+        "modificationDate" : "2024-01-08T14:27:31Z",
+        "origin" : "alert",
+        "owner" : "system",
+        "process" : "/Library/Application Support/JAMF/Jamf.app/Contents/MacOS/JamfDaemon.app/Contents/MacOS/JamfDaemon",
+        "remote-domains" : "dataflow.jamfcloud.com"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:27:01Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 726416821.341129\ndirection: outgoing\norigin: alert\npeer: euce1-104.sentinelone.net\nport: 443\nprocessPath: /Library/Sentinel/sentinel-agent.bundle/Contents/MacOS/sentineld.app/Contents/MacOS/sentineld\nprotocol: 6\n",
+        "modificationDate" : "2024-01-08T14:27:01Z",
+        "origin" : "alert",
+        "owner" : "system",
+        "process" : "/Library/Sentinel/sentinel-agent.bundle/Contents/MacOS/sentineld.app/Contents/MacOS/sentineld",
+        "remote-domains" : "sentinelone.net"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T15:01:16Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 726418876.253810\ndirection: outgoing\norigin: alert\npeer: tether.edge.apple\nport: 443\nprocessPath: /System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget\nprotocol: 17\n",
+        "modificationDate" : "2024-01-08T15:01:16Z",
+        "origin" : "alert",
+        "process" : "/System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget",
+        "remote-domains" : "edge.apple",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:31:17Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 726417077.891998\ndirection: outgoing\norigin: alert\npeer: tether.edge.apple\nport: 443\nprocessPath: /System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget\nprotocol: 17\n",
+        "modificationDate" : "2024-01-08T14:31:17Z",
+        "origin" : "alert",
+        "process" : "/System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget",
+        "remote-domains" : "edge.apple",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryHelpText" : "#en\nAppleIDAuthAgent is used to check whether Apple-ID certificates are valid.\n#de\nAppleIDAuthAgent wird verwendet, um Apple-ID Zertifikate zu überprüfen.",
+        "factoryID" : 420,
+        "group" : "aaaaac",
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "ports" : "443",
+        "process" : "/System/Library/CoreServices/AppleIDAuthAgent",
+        "protected" : true,
+        "remote-hosts" : "setup.icloud.com"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryHelpText" : "#en\nAppleIDAuthAgent is used to check whether Apple-ID certificates are valid.\n#de\nAppleIDAuthAgent wird verwendet, um Apple-ID Zertifikate zu überprüfen.",
+        "factoryID" : 420,
+        "group" : "aaaaac",
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "ports" : "443",
+        "process" : "/System/Library/CoreServices/AppleIDAuthAgent",
+        "protected" : true,
+        "remote-hosts" : "setup.icloud.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryID" : 404,
+        "group" : "aaaaac",
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "ports" : "123",
+        "process" : "/usr/bin/sntp",
+        "protected" : true,
+        "protocol" : "udp",
+        "remote" : "any"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryID" : 417,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "process" : "/usr/libexec/airportd",
+        "protected" : true,
+        "remote" : "bpf"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryID" : 419,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "process" : "/usr/libexec/bootpd",
+        "protected" : true,
+        "remote" : "bpf"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryID" : 416,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "process" : "/usr/libexec/configd",
+        "protected" : true,
+        "remote" : "bpf"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:16:01Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887361.982719\ndirection: outgoing\norigin: alert\npeer: dataflow.jamfcloud.com\nport: 443\nprocessPath: /usr/libexec/mdmclient\nprotocol: 6\n",
+        "modificationDate" : "2024-02-29T08:16:01Z",
+        "origin" : "alert",
+        "owner" : "system",
+        "ports" : "443",
+        "process" : "/usr/libexec/mdmclient",
+        "protocol" : "tcp",
+        "remote-hosts" : "dataflow.jamfcloud.com"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:17:44Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887464.049267\ndirection: outgoing\norigin: alert\npeer: dataflow.jamfcloud.com\nport: 443\nprocessPath: /usr/libexec/mdmclient\nprotocol: 6\n",
+        "modificationDate" : "2024-02-29T08:17:44Z",
+        "origin" : "alert",
+        "ports" : "443",
+        "process" : "/usr/libexec/mdmclient",
+        "protocol" : "tcp",
+        "remote-hosts" : "dataflow.jamfcloud.com",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:49:17Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 726418157.151110\ndirection: outgoing\norigin: alert\npeer: tether.edge.apple\nport: 443\nprocessPath: /usr/libexec/networkserviceproxy\nprotocol: 17\n",
+        "modificationDate" : "2024-01-08T14:49:17Z",
+        "origin" : "alert",
+        "process" : "/usr/libexec/networkserviceproxy",
+        "remote-domains" : "edge.apple",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryID" : 420,
+        "group" : "aaaaac",
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "ports" : "443",
+        "process" : "/usr/libexec/syspolicyd",
+        "protected" : true,
+        "remote-hosts" : "api.apple-cloudkit.com"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryID" : 412,
+        "group" : "aaaaac",
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "ports" : "123",
+        "process" : "/usr/libexec/timed",
+        "protected" : true,
+        "protocol" : "udp",
+        "remote" : "any"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryID" : 300,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "process" : "/usr/libexec/trustd",
+        "protected" : true,
+        "remote" : "any"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryID" : 300,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "process" : "/usr/libexec/trustd",
+        "protected" : true,
+        "remote" : "any",
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryID" : 419,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "process" : "/usr/libexec/wifid",
+        "protected" : true,
+        "remote" : "bpf"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryID" : 253,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "process" : "/usr/sbin/mDNSResponder",
+        "protected" : true,
+        "remote" : "any"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryID" : 418,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "process" : "/usr/sbin/mDNSResponderHelper",
+        "protected" : true,
+        "remote" : "bpf"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-02-29T08:18:30Z",
+        "factoryHelpText" : "#generated\naction: allow\ndate: 730887510.899753\ndirection: outgoing\norigin: alert\npeer: 100.72.217.8\nport: 137\nprocessPath: /usr/sbin/netbiosd\nprotocol: 17\n",
+        "modificationDate" : "2024-02-29T08:18:30Z",
+        "origin" : "alert",
+        "owner" : "system",
+        "ports" : "137",
+        "process" : "/usr/sbin/netbiosd",
+        "protocol" : "udp",
+        "remote" : "any"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryID" : 404,
+        "group" : "aaaaac",
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "ports" : "123",
+        "process" : "/usr/sbin/ntpd",
+        "protected" : true,
+        "protocol" : "udp",
+        "remote" : "any"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryID" : 253,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "process" : "/usr/sbin/ocspd",
+        "protected" : true,
+        "remote" : "any"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryHelpText" : "#en\nThis rule covers the localhost and zero addresses on the loopback interface",
+        "factoryID" : 262,
+        "hidden" : true,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "priority" : "high",
+        "protected" : true,
+        "remote-addresses" : "0.0.0.0, 127.0.0.1, ::0-::1"
+      },
+      {
+        "action" : "ask",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryHelpText" : "#en\nThis rule asks for divert connections over the loopback interface",
+        "factoryID" : 262,
+        "hidden" : true,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "priority" : "high",
+        "protected" : true,
+        "protocol" : "254",
+        "remote-addresses" : "0.0.0.0, 127.0.0.1, ::0-::1"
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryHelpText" : "#en\nThis rule enables access to services by Apple.\n#de\nDiese Regel ermöglicht den Zugriff auf Dienste von Apple.",
+        "factoryID" : 404,
+        "group" : "aaaaac",
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "protected" : true,
+        "remote-domains" : [
+          "apple.com",
+          "cdn-apple.com",
+          "mzstatic.com"
+        ],
+        "requiresTrustedSignatureForAnyProcess" : true
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryHelpText" : "#en\nThis rule enables access to services by Apple.\n#de\nDiese Regel ermöglicht den Zugriff auf Dienste von Apple.",
+        "factoryID" : 404,
+        "group" : "aaaaac",
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "protected" : true,
+        "remote-domains" : [
+          "apple.com",
+          "cdn-apple.com",
+          "mzstatic.com"
+        ],
+        "requiresTrustedSignatureForAnyProcess" : true,
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryHelpText" : "#en\nThis rule is necessary if you want to use iCloud services.\n#de\nDiese Regel ist notwendig, wenn du iCloud-Dienste verwenden möchtest.",
+        "factoryID" : 420,
+        "group" : "aaaaad",
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "ports" : "443",
+        "protected" : true,
+        "remote-domains" : [
+          "icloud-content.com",
+          "icloud.com"
+        ],
+        "requiresTrustedSignatureForAnyProcess" : true
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryHelpText" : "#en\nThis rule is necessary if you want to use iCloud services.\n#de\nDiese Regel ist notwendig, wenn du iCloud-Dienste verwenden möchtest.",
+        "factoryID" : 420,
+        "group" : "aaaaad",
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "ports" : "443",
+        "protected" : true,
+        "remote-domains" : [
+          "icloud-content.com",
+          "icloud.com"
+        ],
+        "requiresTrustedSignatureForAnyProcess" : true,
+        "uid" : 503
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryHelpText" : "#en\nLocal Network is an alias for your home or company network. Technically speaking, it covers all networks your computer is physically connected to (e.g. via Wi-Fi, ethernet cable, dial-up connection, etc). The represented address ranges are updated with every change of your network configuration.\n#de\n„Lokales Netzwerk“ ist eine allgemeine Bezeichnung für das aktuelle Heim- oder Firmennetzwerk, mit dem dein Computer direkt verbunden ist (z.B. über WLAN, Netzwerkkabel, Modem, o.ä.). Die entsprechenden Adressbereiche werden bei jeder Änderung der Netzwerkkonfiguration deines Computers angepasst.",
+        "factoryID" : 253,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "owner" : "system",
+        "protected" : true,
+        "remote" : "local-net",
+        "requiresTrustedSignatureForAnyProcess" : true
+      },
+      {
+        "action" : "allow",
+        "creationDate" : "2024-01-08T14:26:19Z",
+        "factoryHelpText" : "#en\nLocal Network is an alias for your home or company network. Technically speaking, it covers all networks your computer is physically connected to (e.g. via Wi-Fi, ethernet cable, dial-up connection, etc). The represented address ranges are updated with every change of your network configuration.\n#de\n„Lokales Netzwerk“ ist eine allgemeine Bezeichnung für das aktuelle Heim- oder Firmennetzwerk, mit dem dein Computer direkt verbunden ist (z.B. über WLAN, Netzwerkkabel, Modem, o.ä.). Die entsprechenden Adressbereiche werden bei jeder Änderung der Netzwerkkonfiguration deines Computers angepasst.",
+        "factoryID" : 253,
+        "modificationDate" : "2024-01-08T14:26:19Z",
+        "origin" : "factory",
+        "protected" : true,
+        "remote" : "local-net",
+        "requiresTrustedSignatureForAnyProcess" : true,
+        "uid" : 503
+      }
+    ],
+    "users" : [
+      {
+        "defaults" : {
+          "allowGlobalEditing" : 0,
+          "allowGUIScripting" : 0,
+          "allowPreferencesEditing" : 1,
+          "allowProfileSwitching" : 1,
+          "allowRuleAndProfileEditing" : 1,
+          "approveRulesAutomatically" : 1,
+          "autoConfirmationAction" : 1,
+          "autoConfirmationDelay" : 45,
+          "confirmAutomatically" : 0,
+          "confirmWithReturnKey" : 1,
+          "defaultRuleLifetimeForCreatingRulesInAlert" : 0,
+          "detailLevelPortAndProtocol" : 3,
+          "monitorHotKey" : "6400@46",
+          "monitorHotKeyEnabled" : 1,
+          "monitorShowLastMinutes" : 10080,
+          "monitorShowMyLocationBanner" : 1,
+          "monitorStatusItemClickActivation" : 0,
+          "pidOfLSCShowingWelcomeWindow" : 0,
+          "primitive_showSilentModeInStatusItem" : 1,
+          "primitive_showStatusItem" : 1,
+          "respectMyPrivacy" : 1,
+          "showInactivityWarning" : 1,
+          "showNetworkActivityInMenubar" : 1,
+          "showNumericalDataRatesInStatusItem" : 0,
+          "useActiveProfileWhenCreatingRulesInAlert" : 1,
+          "useColorTrafficMeters" : 1
+        },
+        "fullName" : "System Administrator",
+        "shortName" : "root",
+        "uid" : 0
+      },
+      {
+        "defaults" : {
+          "allowGlobalEditing" : 0,
+          "allowGUIScripting" : 1,
+          "allowPreferencesEditing" : 1,
+          "allowProfileSwitching" : 1,
+          "allowRuleAndProfileEditing" : 1,
+          "approveRulesAutomatically" : 1,
+          "autoConfirmationAction" : 1,
+          "autoConfirmationDelay" : 45,
+          "confirmAutomatically" : 0,
+          "confirmWithReturnKey" : 0,
+          "defaultRuleLifetimeForCreatingRulesInAlert" : 0,
+          "detailLevelPortAndProtocol" : 1,
+          "geoViewMyLocationLatitude" : 50.07454976463729,
+          "geoViewMyLocationLongitude" : 14.44087923629298,
+          "monitorHotKey" : "6400@46",
+          "monitorHotKeyEnabled" : 0,
+          "monitorMyLocationUpdateMode" : 0,
+          "monitorShowLastMinutes" : 10080,
+          "monitorShowMyLocationBanner" : 0,
+          "monitorStatusItemClickActivation" : 0,
+          "monitorUnitsBitsPerSecond" : 1,
+          "pidOfLSCShowingWelcomeWindow" : 0,
+          "primitive_showSilentModeInStatusItem" : 1,
+          "primitive_showStatusItem" : 1,
+          "primitive_useSpecificPortAndProtocolWhenCreatingRulesInAlert" : 0,
+          "respectMyPrivacy" : 1,
+          "selectFullHostnameByDefault" : 0,
+          "showInactivityWarning" : 1,
+          "showNetworkActivityInMenubar" : 1,
+          "showNumericalDataRatesInStatusItem" : 1,
+          "useActiveProfileWhenCreatingRulesInAlert" : 1,
+          "useColorTrafficMeters" : 1
+        },
+        "fullName" : "",
+        "shortName" : "",
+        "uid" : 503
+      }
+    ]
+  }
